@@ -3,5 +3,7 @@ publibc class Testone{
        int a=4;
        int b=5;
        system.out.println(a+b);
+       system.out.println(a-b);
+       
     }
 }
